@@ -29,7 +29,7 @@ $ zipnshare-cli --dir /home/someone/somedir foo.txt
 
 ## How to build
 
-### Linux (Ubuntu 20.04 LTS)
+### Linux (for ex. Ubuntu 20.04 LTS)
 ```
 $ sudo apt install build-essential
 $ sudo apt install libcurl4-openssl-dev libmagic-dev
